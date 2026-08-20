@@ -1,5 +1,32 @@
 ---
 permalink: /
+title: "About Me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I am currently a Ph.D. candidate specializing in **Biomedical Sciences & Nutritional Metabolism**. My research focuses on understanding the physiological and molecular mechanisms of **dietary interventions and glycemic control**, integrating **human randomized controlled trials (RCTs)** with **multi-omics profiling (metabolomics, transcriptomics, and gut metagenomics)**.
+
+## 🔬 Research Interests
+* **Clinical Dietary Interventions**: Human RCTs evaluating precision diets, glycemic variability, and insulin sensitivity.
+* **Metabolic Multi-Omics**: Deciphering host-microbiome interactions and metabolic cascades in chronic metabolic disorders.
+* **Evidence-Based Synthesis**: Systematic literature extraction, causal mediation analysis, and statistical modeling.
+
+## 📰 Recent News & Milestones
+* **[2026.08]** Completed animal multi-omics cohort analysis investigating novel dietary pathways.
+* **[2026.08]** Manuscript on dietary glycemic regulation under review/revision for a leading biomedical journal (*Target: Nature Medicine*).
+* **[2026.10]** Anticipated Ph.D. dissertation submission for external peer review.
+
+## 🎓 Education
+* **Ph.D. in Biomedical / Nutrition Sciences** | *Your University* (2022 - Present)
+* **B.Sc. / M.Sc. in Biological / Food Sciences** | *Your Previous University* (2018 - 2022)
+
+---
+*Feel free to connect via [Email](mailto:your_email@domain.com) or explore my research updates and literature digests below.*---
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
