@@ -1,4 +1,28 @@
-# Welcome to Jekyll!
+# 站点基本信息
+title: "Academic Homepage"
+name: "PhD Candidate in Nutrition & Metabolic Sciences"
+description: "PhD Researcher focusing on Human RCTs, Dietary Interventions, Glycemic Regulation & Multi-Omics."
+url: "https://yourusername.github.io" # 替换为你的 GitHub 网址
+baseurl: ""
+
+# 侧边栏个人名片
+author:
+  name: "Your Name (姓名)"
+  avatar: "profile.png" # 放入 images/profile.png
+  bio: "PhD Candidate | Nutrition, Glycemic Regulation & Multi-Omics"
+  location: "Singapore"
+  employer: "Your University / Research Institute"
+  uri: "https://yourusername.github.io"
+  email: "your_email@domain.com"
+  googlescholar: "https://scholar.google.com/citations?user=YOUR_ID"
+  orcid: "https://orcid.org/YOUR_ORCID"
+  github: "yourusername"
+  linkedin: ""
+
+# 导航栏配置
+academicpages:
+  analytics:
+    provider: false# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
